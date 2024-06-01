@@ -2,7 +2,6 @@
 
 - 🔭 Hoje eu trabalho com Service Desk 
 - 🌱 Estudando Python e Django
-- 📫 Contate-me no email: lucasfbrasil.tec@gmail.com
 
 <div>
   <a herf"https://beacons.ai/LucasFBrasil">
