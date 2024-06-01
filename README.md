@@ -8,14 +8,14 @@
   </a>
 </div>
 
-<br>
+---
+
 
 - 👨‍💻 Atualmente trabalhando no Service Desk
 - 🐍 Apredendo a desenvolver em Python
 - 🐧 Passando raiva no Linux 
-<br>
 
-------
+---
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
