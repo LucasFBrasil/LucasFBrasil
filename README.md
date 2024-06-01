@@ -25,6 +25,6 @@
 ---
 
 <div align = "left">
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfbrasil&show_icons=true&theme=dracula&count_private=true"/>
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=lucasfbrasil&show_icons=true&show_icons=true&theme=dracula&count_private=true" />
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFBrasil&show_icons=true&theme=dracula&count_private=true"/>
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=LucasFBrasil&show_icons=true&show_icons=true&theme=dracula&count_private=true" />
 </div>
