@@ -1,18 +1,30 @@
-## Olá! Eu sou o Lucas Brasil.
+<img src = "banner.gif" width = "325px" align = "right">
 
-- 🔭 Hoje eu trabalho com Service Desk 
-- 🌱 Estudando Python e Django
+# Olá! bom ter você por aqui! 😊
+
+  <div id="badges">
+  <a href = "https://github.com/risoflorais">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<br>
+
+- 👨‍💻 Atualmente trabalhando no Service Desk
+- 🐍 Apredendo a desenvolver em Python
+- 🐧 Passando raiva no Linux 
+<br>
 
 <div>
-  <a herf"https://beacons.ai/LucasFBrasil">
-    <img height 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="HTML5" alt="css3" width="48" height="48"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
-<div style="display: inline_block" align="left">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
-  
+---
 
+<div align = "left">
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfbrasil&show_icons=true&theme=dracula&count_private=true"/>
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=lucasfbrasil&show_icons=true&show_icons=true&theme=dracula&count_private=true" />
+</div>
